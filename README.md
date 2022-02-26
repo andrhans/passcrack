@@ -1,7 +1,7 @@
 # README.md
 Files in the repository:
-* [pass-cracker.py](## ZIP Password Cracker)
-* [hash-cracker.py](## Hash Cracker)
+* [pass-cracker.py](.README.md/##ZIP-Password-Cracker)
+* [hash-cracker.py](.README.md##Hash-Cracker)
 
 ## ZIP Password Cracker
 `file:pass-cracker.py`
