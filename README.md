@@ -84,9 +84,9 @@ password::5f4dcc3b5aa765d61d8327deb882cf99
 **************************************************
 ```
 
-### Development ideas
+## Further Development
 
-- Crack multiple types of hashes specified by user input and later taken as an argument.
+- Crack multiple types of hashes specified by user input. Later to be taken as an argument(s).
 
 ```
 encoding=input("Encoding algorithm: ")
