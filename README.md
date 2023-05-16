@@ -1,4 +1,4 @@
-# README.md
+# passcrack
 Files in the repository:
 * [pass-cracker.py](#zip-password-cracker)
 * [hash-cracker.py](#hash-cracker)
